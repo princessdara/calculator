@@ -1,0 +1,159 @@
+ body{
+    /* overflow: hidden; */
+    margin-top: 20px;
+ }
+ .container{
+    max-width: 412px;
+    margin: auto;
+    /* overflow: hidden; */
+    border: 1px solid  black;
+    /* width: 412px; */
+    background: black;
+    
+ }
+
+.box{
+
+    padding: 20px;
+    height: 250px;
+    border: 1px solid black;
+    
+}
+#calcu{
+    color: white;
+    border: none;
+    font-size: 30px;
+    text-align: right;
+    padding: 10px 0px;
+    margin-top: 200px;
+    background-color: black;
+}
+#delete{
+
+    width: 100px;
+    height: 70px;
+    color: aqua;
+}
+#divide{
+
+    width: 100px;
+    height: 70px;
+    color: aqua;
+}
+#mutiply{
+
+    width: 100px;
+    height: 70px;
+    color: aqua;
+}
+#delete{
+
+    width: 100px;
+    height: 70px;
+    color: aqua;
+}
+#seven{
+
+    width: 100px;
+    height: 70px;
+}
+#eight{
+
+    width: 100px;
+    height: 70px;
+}
+#nine{
+
+    width: 100px;
+    height: 70px;
+}
+#minus{
+
+    width: 100px;
+    height: 70px;
+    color: aqua;
+}
+#four{
+
+    width: 100px;
+    height: 70px;
+}
+#five{
+
+    width: 100px;
+    height: 70px;
+}
+#six{
+
+    width: 100px;
+    height: 70px;
+}
+#plus{
+
+    width: 100px;
+    height: 70px;
+    color: aqua;
+}
+#one{
+
+    width: 100px;
+    height: 70px;
+}
+#two{
+
+    width: 100px;
+    height: 70px;
+}
+#three{
+
+    width: 100px;
+    height: 70px;
+}
+#square{
+
+    width: 100px;
+    height: 70px;
+    color: aqua;
+    
+}
+
+
+#pen{
+
+    width: 100px;
+    height: 70px;
+}
+#zero{
+
+    width: 100px;
+    height: 70px;
+}
+#dot{
+
+    width: 100px;
+    height: 70px;
+}
+#equal{
+
+    width: 100px;
+    height: 70px;
+   background-color: aqua;
+   color: black;
+
+}
+button{
+    background-color: whitesmoke;
+    border: none;
+    font-size: 23px;
+}
+
+.all{
+    background-color:  whitesmoke;
+    
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    
+}
